@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ev-svz9f-20251105170000",
+    "title": "Wednesday Gymbox",
+    "dow": "Wed",
+    "day": "5",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-s05gs-20251106150000",
+    "title": "Thursday Specialist Informal",
+    "dow": "Thu",
+    "day": "6",
+    "time": "3pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sk2eh-20251106170000",
+    "title": "Thursday Pads/Technique (Coached)",
+    "dow": "",
+    "day": "",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sey78-20251107173000",
+    "title": "Friday Women's Only",
+    "dow": "Fri",
+    "day": "7",
+    "time": "5:30pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sco6v-20251108130000",
+    "title": "Saturday Fight Prep",
+    "dow": "Sat",
+    "day": "8",
+    "time": "1pm GMT",
+    "status": "Available"
+  }
+]
