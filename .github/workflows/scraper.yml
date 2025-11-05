@@ -33,7 +33,7 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add snapshot.json || echo "no snapshot to commit"
           git diff --quiet || git commit -m "Update snapshot"
-          git diff --quiet || git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
