@@ -32,6 +32,14 @@
     "status": "Available"
   },
   {
+    "id": "ev-s8bj8-20251112170000",
+    "title": "Wednesday Gymbox",
+    "dow": "Wed",
+    "day": "12",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
     "id": "ev-snmpy-20251113150000",
     "title": "Thursday Specialist Informal",
     "dow": "Thu",
@@ -40,19 +48,27 @@
     "status": "Available"
   },
   {
-    "id": "ev-stgyg-20251115180000",
+    "id": "ev-stgyg-20251113180000",
     "title": "Thursday Fundamentals (Coached)",
-    "dow": "Sat",
-    "day": "15",
+    "dow": "",
+    "day": "",
     "time": "6pm GMT",
     "status": "Available"
   },
   {
-    "id": "ev-s8bj8-20251119170000",
-    "title": "Wednesday Gymbox",
-    "dow": "Wed",
-    "day": "19",
-    "time": "5pm GMT",
+    "id": "ev-sjfzj-20251114173000",
+    "title": "Friday Women's Only",
+    "dow": "Fri",
+    "day": "14",
+    "time": "5:30pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-ssot7-20251115130000",
+    "title": "Saturday Fight Prep",
+    "dow": "Sat",
+    "day": "15",
+    "time": "1pm GMT",
     "status": "Available"
   }
 ]
