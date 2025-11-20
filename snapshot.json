@@ -1,17 +1,9 @@
 [
   {
-    "id": "ev-sipz5-20251120150000",
-    "title": "Thursday Specialist Informal",
-    "dow": "Thu",
-    "day": "20",
-    "time": "3pm GMT",
-    "status": "Available"
-  },
-  {
     "id": "ev-sshqa-20251120170000",
     "title": "Thursday Pads/Technique (Coached)",
-    "dow": "",
-    "day": "",
+    "dow": "Thu",
+    "day": "20",
     "time": "5pm GMT",
     "status": "Available"
   },
