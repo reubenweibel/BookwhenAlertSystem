@@ -14,5 +14,45 @@
     "day": "25",
     "time": "2pm GMT",
     "status": "Available"
+  },
+  {
+    "id": "ev-srwoy-20251125160000",
+    "title": "Tuesday Sparring",
+    "dow": "",
+    "day": "",
+    "time": "4pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-s13xq-20251126170000",
+    "title": "Wednesday Gymbox",
+    "dow": "Wed",
+    "day": "26",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-smhmt-20251127150000",
+    "title": "Thursday Specialist Informal",
+    "dow": "Thu",
+    "day": "27",
+    "time": "3pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-s8wcn-20251127170000",
+    "title": "Thursday Fundamentals (Coached)",
+    "dow": "",
+    "day": "",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-s2ror-20251129130000",
+    "title": "Saturday Fight Prep",
+    "dow": "Sat",
+    "day": "29",
+    "time": "1pm GMT",
+    "status": "Available"
   }
 ]
