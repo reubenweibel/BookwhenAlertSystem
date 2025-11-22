@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "ev-s5x3v-20251124210000",
+    "title": "Monday Fundamentals (Coached)",
+    "dow": "Mon",
+    "day": "24",
+    "time": "9pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sno12-20251125140000",
+    "title": "Tuesday Informal Session",
+    "dow": "Tue",
+    "day": "25",
+    "time": "2pm GMT",
+    "status": "Available"
+  }
+]
