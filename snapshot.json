@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "id": "ev-spvxj-20251201190000",
+    "title": "Monday Fundamentals (Coached)",
+    "dow": "Mon",
+    "day": "1",
+    "time": "7pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sxim2-20251201203000",
+    "title": "Monday Sparring",
+    "dow": "",
+    "day": "",
+    "time": "8:30pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-su10l-20251202140000",
+    "title": "Tuesday Informal Session",
+    "dow": "Tue",
+    "day": "2",
+    "time": "2pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-smp62-20251202160000",
+    "title": "Tuesday Sparring",
+    "dow": "",
+    "day": "",
+    "time": "4pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sslqz-20251203170000",
+    "title": "Wednesday Gymbox",
+    "dow": "Wed",
+    "day": "3",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-svcfv-20251204150000",
+    "title": "Thursday Informal",
+    "dow": "Thu",
+    "day": "4",
+    "time": "3pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-svc7y-20251204170000",
+    "title": "Thursday Fundamentals (Coached)",
+    "dow": "",
+    "day": "",
+    "time": "5pm GMT",
+    "status": "Available"
+  }
+]
