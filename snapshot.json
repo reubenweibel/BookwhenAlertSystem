@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "ev-sgd8a-20251208190000",
+    "title": "Monday Fundamentals (Coached)",
+    "dow": "Mon",
+    "day": "8",
+    "time": "7pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-spb5h-20251208203000",
+    "title": "Monday Sparring",
+    "dow": "",
+    "day": "",
+    "time": "8:30pm GMT",
+    "status": "Available"
+  }
+]
