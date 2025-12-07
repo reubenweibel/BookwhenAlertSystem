@@ -14,5 +14,53 @@
     "day": "",
     "time": "8:30pm GMT",
     "status": "Available"
+  },
+  {
+    "id": "ev-stj3q-20251209140000",
+    "title": "Tuesday Informal",
+    "dow": "Tue",
+    "day": "9",
+    "time": "2pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sakbx-20251209160000",
+    "title": "Tuesday Sparring",
+    "dow": "",
+    "day": "",
+    "time": "4pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-ssuz1-20251210170000",
+    "title": "Wednesday Gymbox",
+    "dow": "Wed",
+    "day": "10",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-scd9h-20251211150000",
+    "title": "Thursday Fundamentals (Informal)",
+    "dow": "Thu",
+    "day": "11",
+    "time": "3pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sqt0x-20251211170000",
+    "title": "Thursday Fundamentals (Coached)",
+    "dow": "",
+    "day": "",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-s1mix-20251212173000",
+    "title": "Friday Women's Only",
+    "dow": "Fri",
+    "day": "12",
+    "time": "5:30pm GMT",
+    "status": "Available"
   }
 ]
