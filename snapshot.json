@@ -1,13 +1,5 @@
 [
   {
-    "id": "ev-ssuz1-20251210170000",
-    "title": "Wednesday Gymbox",
-    "dow": "Wed",
-    "day": "10",
-    "time": "5pm GMT",
-    "status": "Available"
-  },
-  {
     "id": "ev-scd9h-20251211150000",
     "title": "Thursday Fundamentals (Informal)",
     "dow": "Thu",
