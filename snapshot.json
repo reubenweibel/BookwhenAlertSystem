@@ -1,17 +1,9 @@
 [
   {
-    "id": "ev-scd9h-20251211150000",
-    "title": "Thursday Fundamentals (Informal)",
-    "dow": "Thu",
-    "day": "11",
-    "time": "3pm GMT",
-    "status": "Available"
-  },
-  {
     "id": "ev-sqt0x-20251211170000",
     "title": "Thursday Fundamentals (Coached)",
-    "dow": "",
-    "day": "",
+    "dow": "Thu",
+    "day": "11",
     "time": "5pm GMT",
     "status": "Available"
   },
