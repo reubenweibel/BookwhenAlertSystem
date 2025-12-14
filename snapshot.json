@@ -8,11 +8,11 @@
     "status": "Available"
   },
   {
-    "id": "ev-surf1-20251215193000",
+    "id": "ev-surf1-20251215203000",
     "title": "Monday Sparring",
     "dow": "",
     "day": "",
-    "time": "7:30pm GMT",
+    "time": "8:30pm GMT",
     "status": "Available"
   },
   {
@@ -21,6 +21,46 @@
     "dow": "Tue",
     "day": "16",
     "time": "2pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sidyz-20251216160000",
+    "title": "Tuesday Sparring",
+    "dow": "",
+    "day": "",
+    "time": "4pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sb2ed-20251217170000",
+    "title": "Wednesday Gymbox",
+    "dow": "Wed",
+    "day": "17",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-shttq-20251218150000",
+    "title": "Thursday Specialist Informal",
+    "dow": "Thu",
+    "day": "18",
+    "time": "3pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-smfuw-20251218170000",
+    "title": "Thursday Fundamentals (Coached)",
+    "dow": "",
+    "day": "",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-s71ez-20251219173000",
+    "title": "Friday Women's Only",
+    "dow": "Fri",
+    "day": "19",
+    "time": "5:30pm GMT",
     "status": "Available"
   }
 ]
