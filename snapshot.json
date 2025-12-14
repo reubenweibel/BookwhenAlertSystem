@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "ev-sadwc-20251215190000",
+    "title": "Monday Fundamentals (Coached)",
+    "dow": "Mon",
+    "day": "15",
+    "time": "7pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-surf1-20251215193000",
+    "title": "Monday Sparring",
+    "dow": "",
+    "day": "",
+    "time": "7:30pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-shhfd-20251216140000",
+    "title": "Tuesday Informal Session",
+    "dow": "Tue",
+    "day": "16",
+    "time": "2pm GMT",
+    "status": "Available"
+  }
+]
