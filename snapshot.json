@@ -8,11 +8,67 @@
     "status": "Available"
   },
   {
-    "id": "ev-sxdjy-20260117203000",
+    "id": "ev-sxdjy-20260112203000",
     "title": "Monday Sparring",
+    "dow": "",
+    "day": "",
+    "time": "8:30pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sb2e1-20260113140000",
+    "title": "Tuesday Informal Session",
+    "dow": "Tue",
+    "day": "13",
+    "time": "2pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sya8p-20260113160000",
+    "title": "Tuesday Sparring",
+    "dow": "",
+    "day": "",
+    "time": "4pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sphcn-20260114170000",
+    "title": "Wednesday Gymbox",
+    "dow": "Wed",
+    "day": "14",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-swocj-20260115150000",
+    "title": "Thursday Specialist Informal",
+    "dow": "Thu",
+    "day": "15",
+    "time": "3pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sglbv-20260115170000",
+    "title": "Thursday Fundamentals (Coached)",
+    "dow": "",
+    "day": "",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-si0xj-20260116173000",
+    "title": "Friday Women's Only",
+    "dow": "Fri",
+    "day": "16",
+    "time": "5:30pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sgz5g-20260117130000",
+    "title": "Saturday Fight Prep",
     "dow": "Sat",
     "day": "17",
-    "time": "8:30pm GMT",
+    "time": "1pm GMT",
     "status": "Available"
   }
 ]
