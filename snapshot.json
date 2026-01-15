@@ -1,17 +1,9 @@
 [
   {
-    "id": "ev-swocj-20260115150000",
-    "title": "Thursday Specialist Informal",
-    "dow": "Thu",
-    "day": "15",
-    "time": "3pm GMT",
-    "status": "Available"
-  },
-  {
     "id": "ev-sglbv-20260115170000",
     "title": "Thursday Fundamentals (Coached)",
-    "dow": "",
-    "day": "",
+    "dow": "Thu",
+    "day": "15",
     "time": "5pm GMT",
     "status": "Available"
   },
