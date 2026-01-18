@@ -46,5 +46,29 @@
     "day": "22",
     "time": "3pm GMT",
     "status": "Available"
+  },
+  {
+    "id": "ev-s7y92-20260122170000",
+    "title": "Thursday Fundamentals (Coached)",
+    "dow": "",
+    "day": "",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-shk0o-20260123173000",
+    "title": "Friday Women's Only",
+    "dow": "Fri",
+    "day": "23",
+    "time": "5:30pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sbj1j-20260124130000",
+    "title": "Saturday Fight Prep",
+    "dow": "Sat",
+    "day": "24",
+    "time": "1pm GMT",
+    "status": "Available"
   }
 ]
