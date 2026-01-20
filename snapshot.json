@@ -1,17 +1,9 @@
 [
   {
-    "id": "ev-srvln-20260120140000",
-    "title": "Tuesday Informal Session",
-    "dow": "Tue",
-    "day": "20",
-    "time": "2pm GMT",
-    "status": "Available"
-  },
-  {
     "id": "ev-ssdbz-20260120160000",
     "title": "Tuesday Sparring",
-    "dow": "",
-    "day": "",
+    "dow": "Tue",
+    "day": "20",
     "time": "4pm GMT",
     "status": "Available"
   },
