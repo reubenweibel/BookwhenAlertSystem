@@ -8,11 +8,11 @@
     "status": "Available"
   },
   {
-    "id": "ev-sl11w-20260126193000",
+    "id": "ev-sl11w-20260126203000",
     "title": "Monday Sparring",
     "dow": "",
     "day": "",
-    "time": "7:30pm GMT",
+    "time": "8:30pm GMT",
     "status": "Available"
   },
   {
@@ -37,6 +37,38 @@
     "dow": "Wed",
     "day": "28",
     "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sgxs6-20260129150000",
+    "title": "Thursday Specialist Informal",
+    "dow": "Thu",
+    "day": "29",
+    "time": "3pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sxr9y-20260129170000",
+    "title": "Thursday Fundamentals (Coached)",
+    "dow": "",
+    "day": "",
+    "time": "5pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-sxme9-20260130173000",
+    "title": "Friday Women's Only",
+    "dow": "Fri",
+    "day": "30",
+    "time": "5:30pm GMT",
+    "status": "Available"
+  },
+  {
+    "id": "ev-s8ean-20260131130000",
+    "title": "Saturday Fight Prep",
+    "dow": "Sat",
+    "day": "31",
+    "time": "1pm GMT",
     "status": "Available"
   }
 ]
