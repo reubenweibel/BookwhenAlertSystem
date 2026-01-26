@@ -1,17 +1,9 @@
 [
   {
-    "id": "ev-sv8vi-20260126190000",
-    "title": "Monday Fundamentals (Coached)",
-    "dow": "Mon",
-    "day": "26",
-    "time": "7pm GMT",
-    "status": "Available"
-  },
-  {
     "id": "ev-sl11w-20260126203000",
     "title": "Monday Sparring",
-    "dow": "",
-    "day": "",
+    "dow": "Mon",
+    "day": "26",
     "time": "8:30pm GMT",
     "status": "Available"
   },
