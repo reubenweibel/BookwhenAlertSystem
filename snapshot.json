@@ -1,13 +1,5 @@
 [
   {
-    "id": "ev-sxme9-20260130173000",
-    "title": "Friday Women's Only",
-    "dow": "Fri",
-    "day": "30",
-    "time": "5:30pm GMT",
-    "status": "Available"
-  },
-  {
     "id": "ev-s8ean-20260131130000",
     "title": "Saturday Fight Prep",
     "dow": "Sat",
